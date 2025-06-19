@@ -1,13 +1,9 @@
-- National Scholarship of Graduate Student, 2024.
+- 第五届全国高校计算机能力挑战赛-python 赛道二等奖, 2023.
 
-- First-prize Scholarship of CUMT, 2024.
+- 华为昇腾 AI 创新大赛安徽赛区铜奖, 2024.
 
-- First-prize Scholarship of CUMT, 2023.
+- 安徽省大数据与人工智能应用竞赛-大数据赛道-创意组一等奖, 2024.
 
-- Freshman Scholarship of CUMT, 2022.
+- RoboCup 机器人世界杯中国赛救援仿真组一等奖, 2025.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- 全国大学生计算机系统能力大赛-操作系统设计赛(华东区域赛)-OS 原理二等奖, 2025.
