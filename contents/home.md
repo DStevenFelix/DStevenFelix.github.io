@@ -21,11 +21,11 @@ dangcunyuan[at]mail.hfut.edu.cn
 #### Patents
 
 - **基于文本位置注意力的对比微表情识别方法** 张俊晨, 谢昭, 严沁, 张岩, **党存远**, 王卫东, 常振涛, 吴克伟  
-   _专利号:_ ZL 2024 1 1124661.5 [[Certificate]](https://drive.google.com/file/d/1dJ_ThOGaNyggZZLs-Cjip608Fm2MNjT5/view?usp=drive_link)
+   _专利号:_ ZL 2024 1 1124661.5 [[Certificate]](https://www.jianguoyun.com/p/DVDU1tMQ1efBDRjR7_wFIAA)
   _授权公告日:_ 2025 年 05 月 13 日
 
 - **一种基于局部-全局可见性分析的 X 光图像遮挡目标检测方法** 严沁, 谢昭, 张俊晨, 张岩, **党存远**, 王卫东, 常振涛, 吴克伟  
-   _专利号:_ ZL 2024 1 1106661.2 [[Certificate]](https://drive.google.com/file/d/1Qf6zPyJe_ds2sf4Z6_ut9BpPIV156BdD/view?usp=drive_link)
+   _专利号:_ ZL 2024 1 1106661.2 [[Certificate]](https://www.jianguoyun.com/p/DQeIZ_8Q1efBDRjT7_wFIAA)
   _授权公告日:_ 2025 年 05 月 13 日
 
 #### Hobbies
