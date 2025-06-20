@@ -12,7 +12,7 @@ dangcunyuan[at]mail.hfut.edu.cn
 
 #### Education
 
-工学学士，物联网工程，合肥工业大学，2022 年--2026 年（预期）。
+工学学士，物联网工程，合肥工业大学，2022 年--2026 年（预计）。
 
 #### Research Interests
 
