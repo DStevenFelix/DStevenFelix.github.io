@@ -16,7 +16,7 @@ dangcunyuan[at]mail.hfut.edu.cn
 
 #### Research Interests
 
-人工智能、检索增强生成（RAG）、计算机视觉、智能机器人，图像视频处理与分析等，同时我也致力于探索新的领域。
+人工智能、检索增强生成（RAG）、GraphRAG。
 
 #### Patents
 
